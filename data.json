@@ -1,0 +1,1081 @@
+{
+ "groups": [
+  {
+   "id": "main",
+   "name": "Main subjects"
+  },
+  {
+   "id": "E1",
+   "name": "Elective 1"
+  },
+  {
+   "id": "E2",
+   "name": "Elective 2"
+  }
+ ],
+ "subjects": [
+  {
+   "id": "digital",
+   "name": "Digital Electronics",
+   "group": "main",
+   "description": "",
+   "weeks": [
+    {
+     "week": 1,
+     "slides": [
+      {
+       "lecture": 1
+      },
+      {
+       "lecture": 2
+      },
+      {
+       "lecture": 3,
+       "till": 20
+      }
+     ],
+     "sheets": [
+      {
+       "sheet": 1
+      }
+     ]
+    },
+    {
+     "week": 2,
+     "slides": [
+      {
+       "lecture": 3
+      }
+     ],
+     "tutorials": [
+      {
+       "text": "Revision"
+      },
+      {
+       "text": "Sheet 1 Sol."
+      }
+     ]
+    },
+    {
+     "week": 3,
+     "slides": [
+      {
+       "lecture": 4
+      }
+     ],
+     "sheets": [
+      {
+       "sheet": 2
+      }
+     ],
+     "tutorials": [
+      {
+       "text": "Sheet 2 Sol."
+      }
+     ]
+    },
+    {
+     "week": 5,
+     "slides": [
+      {
+       "lecture": 5,
+       "note": "Dynamic CMOS"
+      }
+     ],
+     "sheets": [
+      {
+       "sheet": 3
+      }
+     ]
+    },
+    {
+     "week": 6,
+     "slides": [
+      {
+       "lecture": 7,
+       "note": "synchronous pipelines"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "comm",
+   "name": "Communication",
+   "group": "main",
+   "description": "",
+   "weeks": [
+    {
+     "week": 1,
+     "slides": [
+      {
+       "lecture": 1
+      },
+      {
+       "lecture": 2
+      }
+     ],
+     "sheets": [
+      {
+       "sheet": 1,
+       "q": "1 - 4"
+      }
+     ]
+    },
+    {
+     "week": 2,
+     "slides": [
+      {
+       "lecture": 3
+      },
+      {
+       "lecture": 4,
+       "till": 16
+      },
+      {
+       "lecture": 5,
+       "till": 5
+      }
+     ],
+     "sheets": [
+      {
+       "sheet": 1,
+       "q": "5 - 6"
+      }
+     ],
+     "tutorials": [
+      {
+       "text": "Source Code"
+      },
+      {
+       "text": "Sheet 1 Q1 – Q4 Sol."
+      }
+     ]
+    },
+    {
+     "week": 3,
+     "slides": [
+      {
+       "lecture": 4
+      },
+      {
+       "lecture": 5
+      },
+      {
+       "lecture": 6,
+       "till": 39
+      }
+     ],
+     "sheets": [
+      {
+       "sheet": 1,
+       "q": "7"
+      },
+      {
+       "sheet": 2,
+       "q": "1 to 3"
+      }
+     ],
+     "tutorials": [
+      {
+       "tutorial": 2,
+       "note": "Elements of Info. Theory"
+      }
+     ]
+    },
+    {
+     "week": 5,
+     "slides": [
+      {
+       "lecture": 8
+      },
+      {
+       "lecture": 9
+      },
+      {
+       "lecture": 10,
+       "note": "Dr Nafea part done"
+      }
+     ],
+     "tutorials": [
+      {
+       "tutorial": 4
+      }
+     ]
+    },
+    {
+     "week": 6,
+     "slides": [
+      {
+       "lecture": 1,
+       "note":"DFT"
+      },
+      {
+       "lecture": 2
+      }
+     ],
+     "tutorials": [
+      {
+       "tutorial": 5
+      }
+     ],
+     "sheets":[
+      {
+        "sheet": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "control",
+   "name": "Control",
+   "group": "main",
+   "description": "",
+   "weeks": [
+    {
+     "week": 1,
+     "slides": [
+      {
+       "text": "Intro to the course"
+      }
+     ],
+     "sheets": [
+      {
+       "sheet": 1
+      }
+     ],
+     "tutorials": [
+      {
+       "text": "Revision"
+      }
+     ]
+    },
+    {
+     "week": 2,
+     "slides": [
+      {
+       "lecture": 1
+      }
+     ],
+     "sheets": [
+      {
+       "sheet": 1
+      }
+     ],
+     "tutorials": [
+      {
+       "text": "Sheet 1 Sol."
+      }
+     ]
+    },
+    {
+     "week": 3,
+     "slides": [
+      {
+       "lecture": 2
+      },
+      {
+       "lecture": 3
+      }
+     ],
+     "sheets": [
+      {
+       "sheet": 2
+      }
+     ],
+     "tutorials": [
+      {
+       "text": "Sheet 2 Sol."
+      }
+     ]
+    },
+    {
+     "week": 5,
+     "slides": [
+      {
+       "lecture": 4,
+       "note": "Time Response"
+      }
+     ],
+     "sheets": [
+      {
+       "sheet": 4
+      }
+     ],
+     "tutorials": [
+      {
+       "tutorial": 4
+      }
+     ]
+    },
+    {
+     "week": 6,
+     "slides": [
+      {
+       "lecture": 7
+      }
+     ],
+     "tutorials": [
+      {
+       "tutorial": 5
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "advanced-embedded",
+   "name": "Embedded Systems",
+   "group": "main",
+   "description": "",
+   "weeks": [
+    {
+     "week": 2,
+     "slides": [
+      {
+       "lecture": 1
+      }
+     ],
+     "sheets": [
+      {
+       "sheet": 1,
+       "q": "1"
+      }
+     ],
+     "tutorials": [
+      {
+       "text": "Sheet 1 Q1"
+      },
+      {
+       "tutorial": 1,
+       "till": 22
+      }
+     ]
+    },
+    {
+     "week": 3,
+     "slides": [
+      {
+       "lecture": 2,
+       "till": 7
+      }
+     ],
+     "sheets": [
+      {
+       "sheet": 1,
+       "q": "6"
+      }
+     ],
+     "tutorials": [
+      {
+       "tutorial": 2,
+       "note": "up to cyclic scheduling"
+      }
+     ]
+    },
+    {
+     "week": 5,
+     "slides": [
+      {
+       "lecture": 5
+      },
+      {
+       "lecture": 6,
+       "till": 2
+      }
+     ],
+     "sheets": [
+      {
+       "sheet": 1
+      }
+     ],
+     "tutorials": [
+      {
+       "tutorial": 1
+      }
+     ]
+    },
+    {
+     "week": 6,
+     "slides": [
+      {
+       "lecture": 6
+      }
+     ],
+     "sheets": [
+      {
+       "sheet": 2
+      }
+     ],
+     "tutorials": [
+      {
+       "tutorial": 4
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "vlsi",
+   "name": "VLSI",
+   "group": "E1",
+   "description": "",
+   "weeks": [
+    {
+     "week": 1,
+     "slides": [
+      {
+       "text": "Intro Lec",
+       "till": 8
+      }
+     ]
+    },
+    {
+     "week": 2,
+     "slides": [
+      {
+       "text": "Intro Lec",
+       "till": 30
+      }
+     ]
+    },
+    {
+     "week": 3,
+     "slides": [
+      {
+       "text": "Chapter 2",
+       "till": 5
+      }
+     ]
+    },
+    {
+     "week": 5,
+     "slides": [
+      {
+       "text": "Chapter 3",
+       "till": 6
+      }
+     ]
+    },
+    {
+     "week": 6,
+     "slides": [
+      {
+       "text": "Chapter 3 - B"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "satellite",
+   "name": "Satellite Comm.",
+   "group": "E1",
+   "description": "",
+   "weeks": [
+    {
+     "week": 1,
+     "slides": [
+      {
+       "lecture": 1,
+       "till": 31
+      }
+     ]
+    },
+    {
+     "week": 2,
+     "slides": [
+      {
+       "lecture": 2,
+       "till": 23
+      }
+     ],
+     "sheets": [
+      {
+       "sheet": 1,
+       "except": "12.26, 12.27, 12.31, 12.37"
+      }
+     ]
+    },
+    {
+     "week": 3,
+     "slides": [
+      {
+       "lecture": 3,
+       "till": 16
+      }
+     ],
+     "sheets": [
+      {
+       "sheet": 1
+      }
+     ]
+    },
+    {
+     "week": 5,
+     "slides": [
+      {
+       "lecture": 3,
+       "till": 59
+      }
+     ]
+    },
+    {
+     "week": 6,
+     "slides": [
+      {
+       "lecture": 4,
+       "till": 10
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "acoustics",
+   "name": "Acoustics",
+   "group": "E1",
+   "description": "",
+   "weeks": [
+    {
+     "week": 2,
+     "slides": [
+      {
+       "text": "Intro to the course"
+      }
+     ]
+    },
+    {
+     "week": 5,
+     "slides": [
+      {
+       "lecture": 2
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "plc",
+   "name": "PLC",
+   "group": "E1",
+   "description": "",
+   "weeks": [
+    {
+     "week": 1,
+     "slides": [
+      {
+       "text": "Intro Lec"
+      }
+     ]
+    },
+    {
+     "week": 2,
+     "slides": [
+      {
+       "lecture": 2
+      }
+     ]
+    },
+    {
+     "week": 3,
+     "slides": [
+      {
+       "lecture": 3
+      }
+     ]
+    },
+    {
+     "week": 5,
+     "slides": [
+      {
+       "lecture": 5
+      }
+     ]
+    },
+    {
+     "week": 6,
+     "slides": [
+      {
+       "lecture": 6
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "iot",
+   "name": "IoT",
+   "group": "E1",
+   "description": "",
+   "weeks": [
+    {
+     "week": 1,
+     "slides": [
+      {
+       "text": "Intro Lec"
+      },
+      {
+       "lecture": 1
+      }
+     ],
+     "assignments": [
+      {
+       "text": "Assignment 1 Phase 1"
+      }
+     ]
+    },
+    {
+     "week": 2,
+     "slides": [
+      {
+       "lecture": 2,
+       "till": 24
+      }
+     ],
+     "assignments": [
+      {
+       "text": "Assignment 1 Phase 1"
+      }
+     ]
+    },
+    {
+     "week": 3,
+     "slides": [
+      {
+       "lecture": 3
+      }
+     ],
+     "assignments": [
+      {
+       "text": "Assignment 1 Phase 2"
+      }
+     ]
+    },
+    {
+     "week": 5,
+     "slides": [
+      {
+       "lecture": 5,
+       "note": "Wi-Fi"
+      }
+     ]
+    },
+    {
+     "week": 6,
+     "slides": [
+      {
+       "lecture": 6,
+       "note": "Wi-Fi Halow"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dsp",
+   "name": "DSP",
+   "group": "E2",
+   "description": "",
+   "weeks": [
+    {
+     "week": 1,
+     "slides": [
+      {
+       "lecture": 1
+      }
+     ]
+    },
+    {
+     "week": 2,
+     "slides": [
+      {
+       "lecture": 2
+      }
+     ]
+    },
+    {
+     "week": 3,
+     "slides": [
+      {
+       "lecture": 3,
+       "till": 183
+      }
+     ]
+    },
+    {
+     "week": 5,
+     "slides": [
+      {
+       "lecture": 5
+      }
+     ]
+    },
+    {
+     "week": 6,
+     "slides": [
+      {
+       "lecture": 6
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "wireless",
+   "name": "Wireless Comm.",
+   "group": "E2",
+   "description": "",
+   "weeks": [
+    {
+     "week": 1,
+     "slides": [
+      {
+       "text": "Intro to the Course"
+      }
+     ]
+    },
+    {
+     "week": 2,
+     "slides": [
+      {
+       "till": 17
+      }
+     ]
+    },
+    {
+     "week": 3,
+     "slides": [
+      {
+       "lecture": 1
+      }
+     ]
+    },
+    {
+     "week": 5,
+     "slides": [
+      {
+       "lecture": 2,
+       "till": 18
+      }
+     ]
+    },
+    {
+     "week": 6,
+     "slides": [
+      {
+       "lecture": 3
+      },
+      {
+       "lecture": 4,
+       "till": 8
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "optical",
+   "name": "Optical Fibers",
+   "group": "E2",
+   "description": "",
+   "weeks": [
+    {
+     "week": 1,
+     "slides": [
+      {
+       "lecture": 1
+      }
+     ]
+    },
+    {
+     "week": 2,
+     "slides": [
+      {
+       "lecture": 2
+      }
+     ]
+    },
+    {
+     "week": 5,
+     "slides": [
+      {
+       "lecture": 4
+      }
+     ]
+    },
+    {
+     "week": 6,
+     "slides": [
+      {
+       "lecture": 5
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "industrial",
+   "name": "Industrial",
+   "group": "E2",
+   "description": "",
+   "weeks": [
+    {
+     "week": 1,
+     "slides": [
+      {
+       "text": "Project Lecture - Radar"
+      }
+     ]
+    },
+    {
+     "week": 2,
+     "slides": [
+      {
+       "lecture": 2,
+       "note": "Project 1 description"
+      }
+     ]
+    },
+    {
+     "week": 5,
+     "slides": [
+      {
+       "lecture": 4
+      }
+     ]
+    },
+    {
+     "week": 6,
+     "slides": [
+      {
+        "text": "Basics of electromagnetics (Dr Ahmed)",
+        "till": 15
+      }
+     ]
+    }
+   ]
+  }
+ ],
+  "midterm": {
+    "note": "",
+    "exams": [
+      {
+        "subject": "comm",
+        "day": "Saturday",
+        "date": "2026-11-07",
+        "time": "02:30",
+        "duration": "",
+        "content": {
+          "guide": "جايد ميد الcomm ان شاء الله\n\nاول حاجة دكتور خيري قال ال dft بس اللى معانا  و الاسئلة بتيجي شبه الامتحانات القديمة ، و حصلت قبل كدة انه سأل ف حاجة قال مش داخلة الميد ف ذاكرو باقى Lec2  احتياطي ، لو سأل هيسأل concepts مثلا يعنى ايه fading,  يعنى ايه shadowing , ايه الفرق بين ال small and large scale fading , ايه سبب ال small scale fading و هكذا\n\n[Comm guide - Dr Khairy](https://docs.google.com/spreadsheets/d/1x-jq135e_WHNFlzGcZXIUCP9R1aFTUVK/edit?usp=drivesdk&ouid=112386223917940843236&rtpof=true&sd=true)\n\nتانى حاجة دكتور نافع \n\n[Comm guide - Dr Nafea](https://docs.google.com/spreadsheets/d/1vy3C0PRmYlW25yd87eNHIvEEdnwh-5gQ/edit?usp=drivesdk&ouid=112386223917940843236&rtpof=true&sd=true)\n\nكل حاجة داخلة الميد ما عدا ال spread spectrum \n\nكل ال links ف ال excel محاضرات و سكاشن و امتحانات ، فيديوهات سنتنا مش كلها متصورة بس لو حد عايز ف البلاي ليست اهى \n\n[EECE 27 Playlist - Lectures](https://youtube.com/playlist?list=PLG_UtzLNzl1A&si=1HfKF05Jb54MhJmi)\n\nو السكاشن بتاعتنا \n\n[EECE 27 Playlist - Tutorials](https://youtube.com/playlist?list=PLSCi_1eRXEYw&si=UbU17cKqM94PeL39)\n\nركزو اهم حاجة على المحاضرات و الأمثلة اللى الدكتور بيقولها و الامتحانات القديمة\n\nبس كدة و بالتوفيق للجميع",
+          "guide_dir": "rtl",
+          "slides": [
+            {
+              "text": "all Dr. Nafea Part except spread spectrum"
+            },
+            {
+              "lecture": 1,
+              "note": "Dr. Khairy Part (DFT)",
+              "till": 65
+            }
+          ],
+          "sheets": [
+            {
+              "sheet": 1
+            },
+            {
+              "sheet": 2
+            },
+            {
+              "sheet": 3
+            },
+            {
+              "sheet": 4
+            },
+              {
+                "sheet": 1,
+                "note": "Dr khairy (DFT)"
+              }
+          ]
+        }
+      },
+      {
+        "subject": "advanced-embedded",
+        "day": "Monday",
+        "date": "2026-11-09",
+        "time": "02:30",
+        "content": {
+          "guide": "",
+          "slides": [
+            {
+              "lecture": 1
+            },
+            {
+              "lecture": 2
+            },
+            {
+              "lecture": 3
+            },
+            {
+              "lecture": 4
+            },
+            {
+              "lecture": 5
+            },
+            {
+              "lecture": 6
+            }
+          ],
+          "sheets": [
+            {
+              "sheet": 1
+            },
+            {
+              "sheet": 2
+            },
+            {
+              "sheet": 3
+            }
+          ],
+          "tutorials":[
+            {
+            "tutorial": 1
+            },
+            {
+            "tutorial": 2
+            },
+            {
+            "tutorial": 3
+            },
+            {
+            "tutorial": 4
+            }
+          ]
+        }
+      },
+      {
+        "subject": "control",
+        "day": "Tuesday",
+        "date": "2026-11-10",
+        "time": "02:30",
+        "content": {
+          "guide": "",
+          "slides": [
+            {
+              "lecture": 1
+            },
+            {
+              "lecture": 2
+            },
+            {
+              "lecture": 3
+            },
+            {
+              "lecture": 4
+            },
+            {
+              "lecture": 5
+            },
+            {
+              "lecture": 6
+            }
+          ],
+          "sheets": [
+            {
+              "sheet": 1
+            },
+            {
+              "sheet": 2
+            },
+            {
+              "sheet": 3
+            },
+            {
+              "sheet": 4
+            }
+          ],
+          "tutorials":[
+            {
+            "tutorial": 1
+            },
+            {
+            "tutorial": 2
+            },
+            {
+            "tutorial": 3
+            },
+            {
+            "tutorial": 4
+            },
+            {
+            "tutorial": 5
+            },
+            {
+            "tutorial": 6
+            }
+          ]
+        }
+      },
+      {
+        "subject": "optical",
+        "day": "Wednesday",
+        "date": "2026-11-11",
+        "time": "02:30",
+        "content": {
+          "guide": "",
+          "slides": [
+            {
+              "lecture": 1
+            },
+            {
+              "lecture": 2
+            },
+            {
+              "lecture": 3
+            },
+            {
+              "lecture": 4
+            },
+            {
+              "lecture": 5
+            }
+          ]
+        }
+      },
+      {
+        "subject": "digital",
+        "day": "Thursday",
+        "date": "2026-11-12",
+        "time": "02:30",
+        "duration": "",
+        "content": {
+          "guide": "Eece 27 videos till Lec 4&5: [EECE27 PlayList](https://youtube.com/playlist?list=PLBZNPoqHufAA)",
+          "slides": [
+            {
+              "lecture": 1
+            },
+            {
+              "lecture": 2
+            },
+            {
+              "lecture": 3
+            },
+            {
+              "lecture": 4,
+              "note":"till design using logical effort"
+            }
+          ],
+          "sheets": [
+            {
+              "sheet": 1
+            },
+            {
+              "sheet": 2
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
