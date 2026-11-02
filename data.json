@@ -413,6 +413,20 @@
        "tutorial": 4
       }
      ]
+    },
+    {
+     "week": 7,
+     "slides": [
+      {
+       "lecture": 7,
+       "till": 11
+      }
+     ],
+     "tutorials": [
+      {
+       "tutorial": 5
+      }
+     ]
     }
    ]
   },
@@ -906,7 +920,7 @@
         "date": "2026-11-09",
         "time": "02:30",
         "content": {
-          "guide": "",
+          "guide": "Up to Lecture 6\nUp to Section 3 in Eng. Saleh Papers\nUp to Section 5 (recorded Sections 2027) \nUp to Problem Set 3",
           "slides": [
             {
               "lecture": 1
@@ -950,6 +964,9 @@
             },
             {
             "tutorial": 4
+            },
+            {
+            "tutorial": 5
             }
           ]
         }
