@@ -1044,32 +1044,6 @@
         }
       },
       {
-        "subject": "optical",
-        "day": "Wednesday",
-        "date": "2026-11-11",
-        "time": "02:30",
-        "content": {
-          "guide": "",
-          "slides": [
-            {
-              "lecture": 1
-            },
-            {
-              "lecture": 2
-            },
-            {
-              "lecture": 3
-            },
-            {
-              "lecture": 4
-            },
-            {
-              "lecture": 5
-            }
-          ]
-        }
-      },
-      {
         "subject": "digital",
         "day": "Thursday",
         "date": "2026-11-12",
