@@ -987,7 +987,8 @@
         "date": "2026-11-10",
         "time": "02:30",
         "content": {
-          "guide": "",
+          "guide": "السلام عليكم ورحمة الله وبركاته\n\n- محتوي الميد هيكون لحد transient response علي اول 6 محاضرات  : [Lec Slides](https://drive.google.com/drive/folders/1PmTbK6rkQehBcMuzplSwLXT1Qm7sviYs)\n\n- محاضرات قديمة متسجلة لدكتور راجية : [Old Records](https://drive.google.com/drive/u/0/folders/1zFDhw_jUmrAISa3wDV4x8ryS4ct41Y_w)\n\n- ملخصات 27 :[27 Notes](https://drive.google.com/drive/folders/1KE81e9D3WSiTT22YF0vbe0il6U3ZgGQt)\n\n- ملخصات 26 : [26 Notes](https://drive.google.com/drive/folders/1ywtZuo6v3H42Av9b6CoyKmRPDYjnLGRI)\n\n- سكاشن بشمهندس صالح علينا اول 4 : [Eng. Saleh Tutorials](https://drive.google.com/drive/folders/1CyFAoiiEPLyuWSt9bWjT4athG53hgY8m)\n\n- الشيتات : [Sheets](https://drive.google.com/drive/folders/1vADh47FUSXaSvcF5Uxoke3kfC76T0BH0)\n\n- امتحانات سابقة : [Old Exams](https://drive.google.com/drive/folders/1fKgpqKMgl-ThscWJsEd8Av3w0Agg2UH5)\n\nبالتوفيق إن شاء الله",
+          "guide_dir": "rtl",
           "slides": [
             {
               "lecture": 1
